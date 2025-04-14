@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 📺 Netflix Customer Insights – Qualitative Research Study
 
 ## Overview
@@ -23,3 +24,7 @@ April Nguyen
 # netflix-customer-insights
 Qualitative research on customer-brand relationships using Netflix as a case study
 >>>>>>> 427c9afb18539e8d8eb481f1b456256de393332f
+=======
+# dunder-mifflin-sql-portfolio
+SQL-based acquisition analysis of Parch &amp; Posey by Dunder Mifflin, with data visualizations and business insights
+>>>>>>> aec6f83afbb8f4778f678f5d736792035ac732b8
