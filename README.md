@@ -1,30 +1,39 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# 📺 Netflix Customer Insights – Qualitative Research Study
+# Dunder Mifflin SQL + Data Visualization Portfolio (Coursework: SQL for Business Analytics)
 
-## Overview
-This research explores how long-term users form emotional and functional relationships with subscription platforms. The case study focuses on Netflix.
+A full technical project analyzing the acquisition potential of Parch & Posey, a smaller paper company, by Dunder Mifflin. This project combines **SQL-driven business analysis** with **dashboard visualizations** to guide strategic decision-making.
 
-## Key Takeaways
-- Ad-free streaming and early innovation drive loyalty
-- Emotional bonds form from shared experiences
-- Price increases may threaten long-term commitment
+---
 
-## Tools Used
-- Qualitative Interviewing
-- Thematic Coding
-- Customer Journey Mapping
+## Project Objective
 
-## Contents
-- `report/`: Final PDF report
+Evaluate customer behavior, sales trends, and product performance using:
+- SQL queries for data extraction and aggregation
+- Spreadsheet-based dashboards for storytelling
+- Business recommendations based on real patterns
 
-## Author
-April Nguyen
-=======
-# netflix-customer-insights
-Qualitative research on customer-brand relationships using Netflix as a case study
->>>>>>> 427c9afb18539e8d8eb481f1b456256de393332f
-=======
-# dunder-mifflin-sql-portfolio
-SQL-based acquisition analysis of Parch &amp; Posey by Dunder Mifflin, with data visualizations and business insights
->>>>>>> aec6f83afbb8f4778f678f5d736792035ac732b8
+---
+
+## 📄 Included Reports
+
+| File | Description |
+|------|-------------|
+| `report/Dunder_Mifflin_SQL_Tech_Report.pdf` | Final technical report including SQL queries, KPIs, and strategic insights |
+| `dashboard/SQL_Project_Visualization.pdf`   | Data visualization dashboard with charts on regional sales and product breakdowns |
+
+---
+
+## 🔍 Highlights
+
+- Analyzed sales data across 5 regions and 3 paper products
+- Identified over-staffing in Northeast vs. Southeast regions
+- Standard Paper had highest quantity sold, but not highest revenue
+- Combined SQL code + visualizations for presentation-ready analysis
+
+---
+
+## 🛠 Tools Used
+
+- PostgreSQL (via DBeaver)
+- Google Sheets & Excel
+- Canva (for design)
+- GitHub (for publishing)
