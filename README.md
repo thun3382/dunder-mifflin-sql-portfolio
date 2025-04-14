@@ -13,7 +13,7 @@ Evaluate customer behavior, sales trends, and product performance using:
 
 ---
 
-## 📄 Included Reports
+## Included Reports
 
 | File | Description |
 |------|-------------|
@@ -22,7 +22,7 @@ Evaluate customer behavior, sales trends, and product performance using:
 
 ---
 
-## 🔍 Highlights
+## Highlights
 
 - Analyzed sales data across 5 regions and 3 paper products
 - Identified over-staffing in Northeast vs. Southeast regions
@@ -31,7 +31,7 @@ Evaluate customer behavior, sales trends, and product performance using:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - PostgreSQL (via DBeaver)
 - Google Sheets & Excel
