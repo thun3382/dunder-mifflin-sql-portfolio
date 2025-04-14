@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📺 Netflix Customer Insights – Qualitative Research Study
 
 ## Overview
@@ -18,3 +19,7 @@ This research explores how long-term users form emotional and functional relatio
 
 ## Author
 April Nguyen
+=======
+# netflix-customer-insights
+Qualitative research on customer-brand relationships using Netflix as a case study
+>>>>>>> 427c9afb18539e8d8eb481f1b456256de393332f
